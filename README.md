@@ -1,2 +1,1 @@
-# Java_WebSockets_sample-
-Java WebSockets sample 
+# Java WebSockets sample
